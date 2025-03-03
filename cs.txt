@@ -1,0 +1,4 @@
+mp_maxmoney 99999              金币
+mp_restartgame 1       重启
+mp_weapon_restrict 0   
+mp_buy_anywhere 1     购买位置
